@@ -1,3 +1,11 @@
+<h3 align="center">About me</h3>
+
+###
+
+<p align="left">19 anos<br>Estudante do curso Ciências da Computação - Bacharelado<br>Universidade Federal de Jataí - UFJ</p>
+
+###
+
 <h3 align="center">Stats</h3>
 
 ###
